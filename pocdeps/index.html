@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.link.new {
+  stroke: blue;
+}
+
+.link.active {
+  stroke: green;
+}
+
+.rect.new, #new {
+  fill: blue;
+}
+
+.rect.active, #active {
+  fill: green;
+}
+
+.rect.done, #done {
+  fill: #888;
+}
+
+
+rect {
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
+
+</style>
+</head>
+
+<body>
+  <script src="lib/d3.v3.min.js"></script>
+  <script src="lib/papaparse.min.js"></script>
+  <script src="lib/underscore.min.js"></script>
+  <script src="js/poc_deps.js"></script>
+  
+  <button onclick="removeByClass('done')">Skjul ferdigstilte (grå)</button>
+  <button onclick="removeByClass('FLR')">Skjul arbeidstrøm FLR</button>
+  <button onclick="removeByClass('PoC')">Skjul arbeidstrøm PoC</button>
+</</body>
+</html>

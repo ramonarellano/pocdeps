@@ -1,0 +1,46 @@
+Id;Avklaring;Status;Delav;Avhenger;Strm
+AN01;Samspill Vedtaksl�sning og Behandlingslager - Informasjonsmodell ;3. Lukket.;AA05;AN03, AN02;PoC
+AN02;Samspill Vedtaksl�sning og Behandlingslager - Funksjonelle krav ;3. Lukket.;AA05;AN03;PoC
+AN03;Samspill Vedtaksl�sning og Behandlingslager  - Koordinering og overordnede prinsipper ;1. Under arbeid.;AA05;PoC05, AN03;PoC
+AN04;Applikasjonsarkitektur - Modulariserings-prinsipper ;3. Lukket.;AA06;AN29;PoC
+AN05;Eventuell bruk av Sak&behandling;3. Lukket.;AA19;0;FLR
+AN06;Oppslag i Infotrygd;1. Under arbeid.;AA18;AN34;FLR
+AN07;Teknologi for hendelses-distribusjon;3. Lukket.;AA02;PoC10;PoC
+AN08;Policybasert sikkerhet;3. Lukket.;AA07;PoC07;PoC
+AN09;Avhengighet til Akt�r-ID;3. Lukket.;AA09;PoC01, PoC02;FLR
+AN10;Tilleggsmeldinger / inntektsskjema;3. Lukket.;AA16;0;PoC
+AN11;Ytelse og kapasitet;0. Ikke p�begynt.;AA14;0;PoC
+AN12;Batch;3. Lukket.;AA11;PoC06;PoC
+AN13;XML-database;3. Lukket.;AA12;PoC04, PoC05;PoC
+AN14;Felles kodeverk;1. Under arbeid. ;AA08;PoC01, PoC02;FLR
+AN15;Prosesskontroll;3. Lukket.;AA13;AN24;PoC
+AN16;Samspill Vedtaksl�sning og Behandlingslager - Behov fra Datavarehus;3. Lukket.;AA05;AN03;PoC
+AN17;Samspill Vedtaksl�sning og Behandlingslager - Avstemming;3. Lukket.;AA05;AN03;PoC
+AN18;Samspill Vedtaksl�sning og Behandlingslager - Sporing og Juridisk logg;3. Lukket.;AA05;AN03;PoC
+AN19;Samspill Vedtaksl�sning og Behandlingslager - Versjonering;1. Under arbeid. ;AA05;AN03;PoC
+AN20;Samspill Vedtaksl�sning og Behandlingslager - Avlevering til Riksarkiv;3. Lukket.;AA05;AN03;PoC
+AN21;Samspill Vedtaksl�sning og Behandlingslager -Brevproduksjon (AA5);3. Lukket.;AA05;AN03;PoC
+AN22;Teknologi for brukerflater;3. Lukket.;AA20;BB48, PoC11;PoC
+AN23;Inntektsskjema / tilleggsmeldinger;3. Lukket.;AA16;PoC02, PoC03;PoC
+AN24;Prosesskontroll;0. Ikke p�begynt.;AA13;AN03, AN29, PoC01, PoC02;PoC
+AN25;XML-database - Sikkerhet;3. Lukket.;AA12;PoC04, PoC05;PoC
+AN26;Motregning;1. Under arbeid.;AA22;0;FLR
+AN27;Feriepenger;1. Under arbeid.;AA22;0;FLR
+AN28;Regelarkitektur;0. Ikke p�begynt.;AA25;PoC08;PoC
+AN29;Applikasjonsarkitektur - Modularisering av Vedtaksl�sningen;1. Under arbeid.;AA06;AN03, PoC01, PoC02;PoC
+AN30;Samspill Vedtaksl�sning og Behandlingslager - Grensesnitt mot datavarehus;1. Under arbeid.;AA05;PoC05;PoC
+AN31;Samspill Vedtaksl�sning og Behandlingslager - Dokumentstruktur;0. Ikke p�begynt.;AA05;PoC05;PoC
+AN32;Java utviklingsst�tte;1. Under arbeid.;AA27;PoC02, PoC03;PoC
+AN33;Dokumentmottak;1. Under arbeid.;AA24;PoC02, PoC03;PoC
+AN34;S�knadsdialog Foreldrepenger - Infotrygd vs Foreldrepengerl�sning;1. Under arbeid.;AA26;AN06;FLR
+AN35;Gap-analyse av selvbetjeningsl�sning Foreldrepenger;1. Under arbeid.;AA26;0;FLR
+AN36;XML fra S�knadsdialog Foreldrepenger;0. Ikke p�begynt.;AA26;0;PoC
+AN37;Samspill Vedtaksl�sning og Behandlingslager - Teknisk eller formell sak;1. Under arbeid.;AA05;AN03, PoC05;FLR
+AN38;Java -versjon og applikasjonstjener;1. Under arbeid.;AA27;AN32;PoC
+AN39;Samspill Vedtaksl�sning og Behandlingslager - Behov for behandlinsglager;1. Under arbeid.;AA05;AN03;PoC
+AN40;Behov for selvbetjenings-l�sning;1. Under arbeid.;AA26;AN35;FLR
+AN41;P�loggingsniv� selvbetjeningsl�sning;1. Under arbeid.;AA26;0;PoC
+AN42;Videreutvikling informasjonsmodell;1. Under arbeid.;AA05;AN03, AN29;PoC
+AN44;Forretningsprinsipper;1. Under arbeid.;0;0;FLR
+AN45;Prosesskartelgging niv� 3;1. Under arbeid.;0;0;FLR
+AN46;Regelverk - bistand til departementet;1. Under arbeid.;0;0;FLR
