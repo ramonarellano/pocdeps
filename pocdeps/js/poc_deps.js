@@ -1,5 +1,7 @@
+//Comment
 var csvFile = "csv/v02.csv";
 
+console.log("Hello world!");
 
 function lookup(link, data) {
     return _.chain(data)
@@ -10,6 +12,7 @@ function lookup(link, data) {
             return d.seq
         })
         .first().value();
+        
 }
 
 //Retrieves status value from text in data
@@ -20,7 +23,7 @@ function findStatus(status){
         return 'new';
     case '1':
         return 'active';
-    case '3':
+    case '4':
     default:
         return 'done';
     } 
