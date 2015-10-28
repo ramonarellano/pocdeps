@@ -1,7 +1,8 @@
 //Comment
 var csvFile = "csv/v02.csv";
 
-console.log("Hello world!");
+console.log("Hello me!");
+console.log("Hello");
 
 function lookup(link, data) {
     return _.chain(data)
