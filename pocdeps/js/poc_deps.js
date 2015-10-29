@@ -3,7 +3,6 @@ var force; //The diagram
 var width = 1600;
 var height = 1000;
  
- 
 function lookup(link, data) {
     return _.chain(data)
         .filter(function (d) {
@@ -96,7 +95,6 @@ function render(links){
         }
  
         link.target = nodes[link.target];
-        console.log("test");
     });
  
     force = d3.layout.force()
