@@ -3,6 +3,10 @@ var force; //The diagram
 var width = 1600;
 var height = 1000;
  
+console.log("Hello!");
+console.log("World!");
+
+ 
 function lookup(link, data) {
     return _.chain(data)
         .filter(function (d) {
